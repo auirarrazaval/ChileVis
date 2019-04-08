@@ -9,4 +9,4 @@ Information obtained from [ChileData](https://es.datachile.io/)
 ## Authors
 - Alfonso Irarrázaval [@auirarrazaval](https://github.com/auirarrazaval)
 - Juan Pablo Chacón [@jpchaconr](https://github.com/jpchaconr)
-- Simón Galvez [@spga](https://github.com/spga)
+- Simón Garces [@spga](https://github.com/spga)
