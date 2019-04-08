@@ -1,0 +1,346 @@
+region,comuna,nombre_electo,sexo,partido,votacion_candidato,total,porcentaje
+11,aisén,catalan sanchez oscar,h,IND,4011,9217,43.52
+5,algarrobo,galvez fuenza jaime,h,IND,3400,6002,56.65
+13,alhué,torres huerta roberto,h,IND,1738,3160,55.0
+8,alto bio bio,piñaleo llaulen nivaldo,h,IND,1597,2812,56.79
+3,alto del carmen,bou bou carmen antonia,m,IND,791,3019,26.2
+1,alto hospicio,galleguillos castillo ramon,h,UDI,7448,12329,60.41
+10,ancud,moreno nuñez soledad,m,IND,8523,16944,50.3
+4,andacollo,alfaro aravena juan carlos,h,PS,3635,6070,59.88
+9,angol,valdebenito burgos obdulio,h,PDC,9509,21707,43.81
+2,antofagasta,rojo venegas karen paulina,m,IND,35110,73297,47.9
+8,antuco,solar jara claudio,h,PDC,1198,2529,47.37
+8,arauco,alarcon guzman mauricio,h,IND,8484,15256,55.61
+15,arica,urrutia cardenas salvador pedro,h,PRO,17687,49738,35.56
+13,buin,bozan ramos angel,h,IND,15359,28396,54.09
+8,bulnes,sanchez fuentes ernesto,h,IND,5722,11220,51.0
+5,cabildo,aliaga diaz patricio,h,IND,4016,9131,43.98
+12,cabo de hornos,tapia villarroel pamela rosanna,m,IND,304,809,37.58
+8,cabrero,gierke quevedo mario,h,IND,7924,13635,58.12
+2,calama,velasquez nuñez esteban,h,IND,23769,40909,58.1
+10,calbuco,cardenas gomez ruben rolando,h,PR,5765,11285,51.09
+3,caldera,gonzalez brizuela patricia,m,IND,3549,6581,53.93
+5,calera,martinez machuca eduardo,h,PDC,9988,16328,61.17
+13,calera de tango,valenzuela santibañez erasmo,h,IND,5810,10134,57.33
+5,calle larga,venegas salazar nelson,h,PS,4208,6005,70.07
+15,camarones,romero menacho martin ivan,h,IND,1157,2560,45.2
+1,camiña,garcia caceres sixto,h,RN,858,1633,52.54
+4,canela,leyton lemus juan bernardo,h,IND,2612,5202,50.21
+8,cañete,silva sanhueza abraham,h,PDC,7023,13561,51.79
+9,carahue,vera paredes pedro,h,PR,7744,13163,58.83
+5,cartagena,garcia tapia rodrigo,h,IND,4683,8998,52.04
+5,casablanca,martinez roca rodrigo,h,RN,4004,10994,36.42
+10,castro,aguila serpa nelson hugo,h,PDC,7834,14047,55.77
+5,catemu,luksic nieto boris,h,RN,2618,6281,41.68
+7,cauquenes,muñoz rojas juan carlos,h,RN,11418,20918,54.58
+13,cerrillos,aguirre gacitua arturo,h,PS,11009,23419,47.01
+13,cerro navia,plaza sanchez luis alberto,h,RN,21527,45137,47.69
+10,chaiten,vasquez celedon pedro,h,IND,701,2145,32.68
+7,chanco,diaz meza viviana escarlette,m,RN,3762,6344,59.3
+3,chañaral,volta rojas hector antonio,h,PR,2765,5253,52.64
+6,chépica,cofre calderon rebeca,m,UDI,4483,8023,55.88
+8,chiguayante,rivas villalobos antonio,h,PS,13435,26893,49.96
+11,chile chico,muñoz gonzalez luperciano,h,PPD,1301,2535,51.32
+8,chillán,zarzar andonie sergio,h,IND,26405,60606,43.57
+8,chillán viejo,aylwin lagos felipe,h,IND,5744,10898,52.71
+6,chimbarongo,mellado pino cosme,h,PRI,6908,13045,52.96
+9,cholchol,huirilef barra luis,h,IND,3105,5946,52.22
+10,chonchi,andrade oyarzun pedro gerardo,h,PDC,3619,6700,54.01
+11,cisnes,valdes gutierrez luis,h,PS,1213,2246,54.01
+8,cobquecura,caro caro osvaldo,h,IND,1866,3668,50.87
+10,cochamó,soto sotomayor carlos,h,PR,1139,2172,52.44
+11,cochrane,ulloa georgia patricio,h,UDI,952,1513,62.92
+6,codegua,silva gutierrez ana maria,m,PDC,2859,6199,46.12
+8,coelemu,aravena alarcon laura,m,IND,5297,9577,55.31
+8,coihueco,chandia alarcon carlos luis,h,IND,5692,11646,48.88
+6,coinco,valenzuela abarca gregorio,h,RN,2272,4099,55.43
+7,colbún,muñoz oses pedro pablo,h,IND,4747,9903,47.93
+1,colchane,mamani garcia teofilo,h,RN,671,1507,44.53
+13,colina,olavarria rodriguez mario,h,UDI,15475,27012,57.29
+9,collipulli,rosales neira leopoldo,h,PS,7165,10278,69.71
+6,coltauco,jorquera vidal ruben,h,PS,3505,7102,49.35
+4,combarbalá,castillo diaz pedro miguel angel,h,IND,2800,6535,42.85
+8,concepción,ortiz vera alvaro,h,PDC,39363,71362,55.16
+13,conchalí,sottolichio urquiza carlos,h,PPD,21508,42100,51.09
+5,concón,sumonte gonzalez oscar,h,IND,6491,16431,39.5
+7,constitución,valenzuela gajardo carlos,h,IND,9590,19039,50.37
+8,contulmo,ibañez burgos diego,h,PS,1326,3400,39.0
+3,copiapó,cicardini neyra maglio,h,IND,20632,40712,50.68
+4,coquimbo,galleguillos vega cristian marcelo,h,PDC,23477,51379,45.69
+8,coronel,romero saez leonidas,h,IND,17384,38665,44.96
+14,corral,perez gonzalez gaston,h,IND,1676,3087,54.29
+11,coihaique,huala canuman rigoberto alejandro,h,PS,9968,17102,58.29
+9,cunco,coke candia antonio,h,PPD,3281,8324,39.42
+9,curacautín,saquel albarran jorge,h,IND,6006,8300,72.36
+13,curacaví,barros basso juan pablo,h,IND,7735,12021,64.35
+10,curaco de vélez,curumilla sotomayor luis,h,PDC,1483,2211,67.07
+8,curanilahue,gengnagel gutierrez luis alberto,h,IND,7772,15890,48.91
+9,curarrehue,painefilo barriga abel,h,PPD,2507,4506,55.64
+7,curepto,concha gonzalez rene,h,IND,3909,6156,63.5
+7,curicó,muñoz riquelme javier antonio,h,PDC,29283,47908,61.12
+10,dalcahue,perez muñoz juan alberto,h,RN,2297,5355,42.89
+3,diego de almagro,zavala torres isaias florencio,h,PC,2726,5277,51.66
+6,doñihue,acuña gonzalez boris,h,PPD,4157,8485,48.99
+13,el bosque,melo moya sadi leonardo,h,PS,30379,46257,65.67
+8,el carmen,san martin rubilar jose,h,PDC,4676,7666,61.0
+13,el monte,gomez ramirez francisco,h,PS,6747,13199,51.12
+5,el quisco,carrasco pizarro natalia,m,PDC,3265,5754,56.74
+5,el tabo,jorquera romero emilio,h,PPD,2567,5303,48.41
+7,empedrado,tejos perez gonzalo antonio,h,UDI,1481,3150,47.02
+9,ercilla,vilugron martinez jose,h,UDI,1681,4277,39.3
+13,estación central,delgado mocarquer rodrigo,h,UDI,22170,45667,48.55
+8,florida,roa villegas jorge,h,PDC,1962,6325,31.02
+9,freire,bravo burgos jose,h,RN,4815,9595,50.18
+3,freirina,orellana orellana cesar antonio,h,PS,1695,3284,51.61
+10,fresia,guarda barrientos rodrigo,h,IND,3839,7156,53.65
+10,frutillar,espinoza sandoval ramon,h,PS,4326,7831,55.24
+10,futaleufu,carvallo pardo hector arturo,h,PDC,669,1497,44.69
+14,futrono,jaramillo arismendi sarita,m,PPD,3739,6691,55.88
+9,galvarino,huaiquil paillal fernando,h,IND,3206,6222,51.53
+15,general lagos,mendoza chura gregorio mario,h,RN,629,1261,49.88
+9,gorbea,meza moncada juan esteban,h,PR,3944,7765,50.79
+6,graneros,segovia cofre claudio,h,IND,6713,13548,49.55
+11,guaitecas,alvarado oyarzo cristian alejandro,h,IND,549,943,58.22
+5,hijuelas,rossat arriagada veronica,m,UDI,5707,7361,77.53
+10,hualaihué,ibacache muñoz freddy alejandro,h,PPD,2502,4813,51.98
+7,hualañé,pucher lizama claudio,h,RN,2994,5866,51.04
+8,hualpén,lagos lizama fabiola,m,PPD,12157,31149,39.03
+8,hualqui,fuentes palma ricardo,h,IND,7220,9725,74.24
+1,huara,silva riquelme carlos enrique,h,PR,1405,2574,54.58
+3,huasco,loyola morenilla rodrigo,h,PPD,2935,4261,68.88
+13,huechuraba,cuadrado prats carlos,h,PPD,12381,26317,47.05
+4,illapel,cortes vargas denis,h,IND,7699,12919,59.59
+13,independencia,duran baronti gonzalo,h,PS,16109,28442,56.64
+1,iquique,soria quiroga jorge alejandro,h,IND,29396,56961,51.61
+13,isla de maipo,adasme godoy carlos francisco,h,PDC,5439,10717,50.75
+5,isla de pascua,edmunds paoa pedro pablo,h,PRO,1013,2366,42.81
+5,juan fernandez,paredes vergara felipe,h,IND,268,505,53.07
+13,la cisterna,rebolledo pizarro santiago,h,PPD,17204,28935,59.46
+5,la cruz,larrondo laborde maite,m,UDI,3360,6371,52.74
+6,la estrella,fernandez mori gaston octavio,h,IND,1391,2561,54.31
+13,la florida,carter fernandez rodolfo,h,UDI,50676,107814,47.0
+13,la granja,delpin aguilar luis felipe,h,PDC,22877,30423,75.2
+4,la higuera,galleguillos ossandon yerko,h,UDI,874,2608,33.51
+5,la ligua,sanchez villalobos rodrigo,h,PC,7841,15145,51.77
+13,la pintana,pavez moreno jaime,h,PPD,19784,36240,54.59
+13,la reina,donckaster fernandez raul renan,h,PDC,12034,35658,33.75
+4,la serena,jacob jure roberto,h,PR,31968,47032,67.97
+14,la unión,astudillo mautz maria angelica,m,PPD,9118,16764,54.39
+14,lago ranco,rosas lobos santiago,h,PDC,2479,4728,52.43
+11,lago verde,opazo lopez nelson,h,UDI,407,828,49.15
+12,laguna blanca,ritter rodriguez eleazar augusto ricardo,h,UDI,524,674,77.74
+8,laja,pinto albornoz jose,h,PS,5768,11090,52.01
+13,lampa,ortuzar novoa graciela,m,RN,8871,19264,46.05
+14,lanco,peña riquelme rolando,h,RN,4877,7991,61.03
+6,las cabras,leiva parra rigoberto,h,UDI,3475,9866,35.22
+13,las condes,de la maza chadwick francisco,h,UDI,64609,86931,74.32
+9,lautaro,jaramillo salazar miguel,h,PPD,7510,14562,51.57
+8,lebu,peña morales cristian abel,h,IND,6529,10741,60.79
+7,licantén,fernandez vilos oscar marcelo,h,IND,1810,4462,40.56
+5,limache,morales espindola daniel,h,IND,9787,15198,64.4
+7,linares,renteria moller rolando,h,UDI,17728,35180,50.39
+6,litueche,acuña echeverria rene,h,UDI,2130,4158,51.23
+10,llanquihue,vasquez vasquez fernando,h,PS,4380,8081,54.2
+5,llay-llay,marillanca ramirez mario,h,PDC,5843,10148,57.58
+13,lo barnechea,guevara stephens felipe,h,RN,18616,24857,74.89
+13,lo espejo,bruna silva miguel angel,h,PPD,14969,28613,52.32
+13,lo prado,navarrete muñoz gonzalo,h,PPD,21974,33047,66.49
+6,lolol,marin rodriguez marco antonio,h,IND,3216,4899,65.65
+9,loncoche,peña riquelme sergio,h,RN,5831,9248,63.05
+7,longaví,briones araice mario antonio,h,PPD,7349,15134,48.56
+9,lonquimay,barria oyarzun guido,h,IND,3303,5918,55.81
+8,los álamos,fuentes fetis jorge,h,UDI,3254,9836,33.08
+5,los andes,navarro salinas mauricio,h,PDC,10363,19849,52.21
+8,los ángeles,krause salazar esteban,h,PR,26744,59060,45.28
+14,los lagos,mansilla roa simon sebastian,h,PS,3046,8602,35.41
+10,los muermos,gonzalez burgos emilio,h,UDI,4260,7298,58.37
+9,los sauces,mella arzola gaston,h,UDI,2395,4782,50.08
+4,los vilos,marcarian julio manuel yahnosse,h,IND,4244,8599,49.35
+8,lota,marchant ulloa patricio,h,IND,11086,24991,44.36
+9,lumaco,fuentes inostroza alejandro,h,IND,2798,5822,48.06
+6,machalí,urrutia celis jose miguel,h,UDI,8131,12654,64.26
+13,macul,puyol carreño sergio,h,PDC,16436,38496,42.7
+14,máfil,sepulveda miranda claudio,h,PPD,2098,3752,55.92
+13,maipú,vittori muñoz christian,h,PDC,60746,114050,53.26
+6,malloa,barra villanueva luis,h,PPD,2966,7503,39.53
+6,marchigue,flores peñaloza hector hernan,h,UDI,2946,4260,69.15
+2,maría elena,godoy bolvaran jorge,h,PS,1284,2579,49.79
+13,maría pinto,araos aguirre cesar,h,UDI,2809,5170,54.33
+14,mariquina,pacheco ayala erwin,h,PDC,5079,9185,55.3
+7,maule,vasquez galvez luis,h,PDC,5464,9291,58.81
+10,maullín,westermeier estrada jorge john,h,PDC,2565,7284,35.21
+2,mejillones,carvajal ferreira marcelino,h,PPD,2395,4612,51.93
+9,melipeuco,espinoza perez juan carlos,h,IND,1878,3525,53.28
+13,melipilla,gebauer bringas mario,h,PPD,18135,35705,50.79
+7,molina,castillo gerli priscilla,m,PDC,12256,20370,60.17
+4,monte patria,castillo boilet juan carlos,h,PDC,6741,12395,54.38
+6,mostazal,medel acosta sergio,h,UDI,6365,11169,56.99
+8,mulchén,rivas figueroa jorge,h,PDC,6740,13158,51.22
+8,nacimiento,inostroza ramirez hugo,h,PPD,6380,12424,51.35
+6,nancagua,duarte rabello wilson manuel,h,IND,4345,8343,52.08
+12,natales,paredes mansilla jose fernando,h,UDI,5537,7903,70.06
+6,navidad,maldonado mondaca horacio,h,IND,1680,3357,50.04
+8,negrete,melo marquez javier,h,IND,2927,5431,53.89
+8,ninhue,blanco hadi carmen,m,RN,2354,4417,53.29
+5,nogales,cortes puebla oscar,h,PDC,5718,9578,59.7
+9,nueva imperial,salas trautmann manuel,h,PDC,7633,15188,50.26
+8,ñiquén,pino turra manuel,h,UDI,3571,6331,56.4
+13,ñuñoa,sabat pietracaprina pedro antonio,h,RN,34247,76330,44.87
+11,o'higgins,recabal carcamo roberto,h,IND,129,409,31.54
+6,olivar,montero carrasco maria estrella,m,IND,2945,6486,45.41
+2,ollague,reygadas bavestrello carlos,h,UDI,436,704,61.93
+5,olmué,santelices cañas macarena,m,IND,3921,7460,52.56
+10,osorno,bertin valenzuela jaime,h,PDC,28761,47857,60.1
+4,ovalle,renteria larrondo claudio,h,IND,14170,34564,41.0
+13,padre hurtado,arellano merino jose miguel,h,RN,12528,16403,76.38
+9,padre las casas,delgado castro juan eduardo,h,RN,9922,20883,47.51
+4,paihuano,torres medina lorenzo roberto,h,PPD,1657,2903,57.08
+14,paillaco,reyes painequeo ramona,m,PS,5282,10018,52.73
+13,paine,vergara rodriguez diego,h,RN,13484,21681,62.19
+10,palena,delgado casanova aladin,h,RN,633,1177,53.78
+6,palmilla,paredes valdes gloria,m,PDC,3023,6167,49.02
+14,panguipulli,aravena riffo rene,h,RN,6243,13583,45.96
+5,panquehue,pradenas moran luis,h,UDI,1887,3761,50.17
+5,papudo,prieto valdes rosa,m,RN,1933,3407,56.74
+6,paredones,ormazabal lopez sammy,h,PPD,2127,4073,52.22
+7,parral,retamal urrutia paula,m,UDI,10343,19110,54.12
+13,pedro aguirre cerda,nuñez jimenez claudina,m,PC,18548,38684,47.95
+7,pelarco,vasquez bobadilla bernardo,h,UDI,2460,4829,50.94
+7,pelluhue,leal bustos nelson,h,IND,2881,4535,63.53
+8,pemuco,guiñez nuñez jacqueline,m,IND,2325,5154,45.11
+7,pencahue,lara leiva lucy,m,RN,3149,6762,46.57
+8,penco,figueroa rebolledo victor hugo,h,PDC,9323,22014,42.35
+13,peñaflor,fuentes rosales manuel,h,UDI,15715,28072,55.98
+13,peñalolén,leitao alvarez-salamanca carolina,m,PDC,34891,63022,55.36
+6,peralillo,guajardo leon fabian,h,PPD,3146,5980,52.61
+9,perquenco,muñoz perez luis alberto,h,PDC,2882,3984,72.34
+5,petorca,valdenegro rubillo gustavo,h,IND,2460,5190,47.4
+6,peumo,carreño carreño fermin alejandro,h,IND,3673,7549,48.66
+1,pica,nuñez herrera miguel angel,h,PDC,1542,2997,51.45
+6,pichidegua,ceron gonzalez ruben adolfo,h,PR,5547,8888,62.41
+6,pichilemu,cordova carreño roberto,h,PS,3507,7138,49.13
+8,pinto,chavez guiñez fernando,h,UDI,5401,6627,81.5
+13,pirque,balmaceda undurraga cristian,h,RN,4535,9011,50.33
+9,pitrufquén,catalan candia humberto,h,IND,5891,10715,54.98
+6,placilla,latorre muñoz joaquin inocencio,h,IND,2632,5238,50.25
+8,portezuelo,schuffeneger salas rene gustavo,h,RN,2262,4053,55.81
+12,porvenir,andrade cardenas marisol,m,IND,1646,2316,71.07
+1,pozo almonte,muñoz caceres jose fernando,h,IND,1424,4435,32.11
+12,primavera,brztilo avendaño blagomir fernando,h,IND,426,750,56.8
+13,providencia,errazuriz guilisasti maria josefa,m,IND,37680,67377,55.92
+5,puchuncaví,rojas julio hugo,h,IND,4490,7616,58.95
+9,pucón,barra matamala carlos,h,RN,6319,10397,60.78
+13,pudahuel,carrasco cerda johnny,h,PS,30502,47981,63.57
+13,puente alto,codina powers german,h,RN,49308,90502,54.48
+10,puerto montt,paredes rojas gervoy amador,h,PS,22296,49945,44.64
+10,puerto octay,mancilla solis carlos,h,PDC,2300,4378,52.54
+10,puerto varas,berger schmidt alvaro,h,PS,8695,15779,55.1
+6,pumanque,castro galvez francisco,h,RN,1369,2625,52.15
+4,punitaqui,valdivia ramirez pedro alejandro,h,IND,3139,5375,58.4
+12,punta arenas,boccazzi campos emilio,h,IND,16144,30315,53.25
+10,puqueldón,montecinos montiel pedro nicolas,h,IND,1395,2568,54.32
+9,purén,rivera leal jorge,h,PPD,2422,6619,36.59
+10,purranque,negron schwerter cesar,h,PS,4326,10026,43.15
+5,putaendo,reyes cortes guillermo,h,PS,5054,7179,70.4
+15,putre,carrasco arias angelo alejandro,h,PPD,1488,2672,55.69
+10,puyehue,queipul vidal jose luis,h,PDC,3921,6524,60.1
+10,queilén,godoy velasquez manuel jesus,h,UDI,1482,3396,43.64
+10,quellón,ojeda chiguay cristian felipe,h,PDC,4301,9199,46.76
+10,quemchi,macias demarchi luis,h,IND,2023,4136,48.91
+8,quilaco,tirapegui muñoz rolando,h,IND,1133,2858,39.64
+13,quilicura,carrasco contreras juan,h,IND,27414,42521,64.47
+8,quilleco,tapia avello rodrigo,h,IND,2251,5540,40.63
+8,quillón,gyhra soto alberto,h,RN,4487,8390,53.48
+5,quillota,mella gajardo luis,h,PDC,20497,29427,69.65
+5,quilpué,viñambres adasme mauricio,h,PS,24330,38628,62.99
+10,quinchao,torres aguila santiago,h,IND,2413,3605,66.93
+6,quinta de tilcoco,barrios orostegui nelson,h,PPD,4789,7459,64.2
+13,quinta normal,fernandez valenzuela carmen gloria,m,PDC,11473,33865,33.88
+5,quintero,carrasco pardo mauricio,h,IND,4727,10990,43.01
+8,quirihue,irribarra ramirez richard,h,PR,3204,6658,48.12
+6,rancagua,soto romero eduardo patricio,h,UDI,48174,68854,69.97
+8,ránquil,garrido carcamo carlos,h,UDI,2042,3860,52.9
+7,rauco,olivares farias enrique francisco,h,PR,3286,5661,58.05
+13,recoleta,jadue jadue daniel,h,PC,20502,49189,41.68
+9,renaico,reinao marilao juan carlos,h,IND,2192,5347,40.99
+13,renca,barahona kunstmann vicky,m,UDI,21618,41284,52.36
+6,rengo,soto gonzalez carlos ernesto,h,IND,11556,20487,56.41
+6,requínoa,silva vargas luis antonio,h,IND,6455,11228,57.49
+7,retiro,ramirez parra rodrigo,h,RN,5537,9575,57.83
+5,rinconada,caballeria diaz pedro,h,PDC,2633,5199,50.64
+14,río bueno,reyes alvarez luis,h,UDI,8780,15406,56.99
+7,río claro,guajardo oyarce claudio arturo,h,RN,3130,6312,49.59
+4,río hurtado,valenzuela rojas jaime gary,h,RN,1667,2841,58.68
+11,río ibáñez,alarcon escobar emilio,h,UDI,862,1524,56.56
+10,río negro,schwalm urzua carlos,h,RN,4240,7175,59.09
+12,rio verde,vasquez barrientos silvia tatiana,m,UDI,484,596,81.21
+7,romeral,vergara zerega carlos alberto,h,IND,3358,7720,43.5
+9,saavedra,paillafil calfulen juan,h,IND,2689,6292,42.74
+7,sagrada familia,arriagada urrutia martin,h,UDI,4815,9372,51.38
+4,salamanca,rojas escudero gerardo,h,PPD,5558,10427,53.3
+5,san antonio,vera castro omar,h,IND,22676,29166,77.75
+13,san bernardo,cuevas contreras nora,m,UDI,33604,65944,50.96
+8,san carlos,gebrie asfura hugo,h,RN,12375,22937,53.95
+7,san clemente,rojas vergara juan,h,PDC,12052,17171,70.19
+5,san esteban,mardones valencia rene,h,IND,4539,7409,61.26
+8,san fabián,jardua campos lorena,m,IND,1965,3036,64.72
+5,san felipe,freire canto patricio,h,IND,8525,24273,35.12
+6,san fernando,berwart araya luis antonio,h,IND,9086,25618,35.47
+12,san gregorio,carcamo alderete edgar,h,IND,202,715,28.25
+8,san ignacio,olivares bustamante wilson,h,PR,4403,8336,52.82
+7,san javier,fernandez chavarri pedro pablo,h,PDC,8217,17747,46.3
+13,san joaquín,echeverria garcia sergio,h,IND,21843,27912,78.26
+13,san josé de maipo,pezoa alvarez luis,h,RN,2740,7385,37.1
+10,san juan de la costa,candia henriquez bernardo,h,PDC,2526,4090,61.76
+13,san miguel,palestro velasquez julio,h,PS,19047,32901,57.89
+8,san nicolás,toro leiva victor,h,PDC,3121,6201,50.33
+10,san pablo,alvarado aguero omar,h,PDC,3863,5214,74.09
+13,san pedro,flores armijo florentino,h,PDC,2195,4524,48.52
+2,san pedro de atacama,berna martinez sandra,m,PDC,1295,3025,42.81
+8,san pedro de la paz,retamal lazo audito,h,IND,10107,29957,33.74
+7,san rafael,diaz bravo claudia,m,PDC,1870,4907,38.11
+13,san ramón,aguilera sanhueza miguel angel,h,PS,14913,29634,50.32
+8,san rosendo,sepulveda san martin ovidio,h,PDC,1607,2982,53.89
+6,san vicente,gonzalez ramirez jaime,h,PS,11876,19709,60.26
+8,santa bárbara,salamanca perez daniel sebastian,h,PDC,2649,6523,40.61
+6,santa cruz,arevalo cornejo william,h,IND,10207,14857,68.7
+8,santa juana,castro medina angel,h,PDC,4527,7335,61.72
+5,santa maría,zurita ibarra claudio,h,PPD,6262,6826,91.74
+13,santiago,toha morales carolina,m,PPD,42520,84027,50.6
+5,santo domingo,rodriguez larrain fernando,h,UDI,4795,4795,100.0
+2,sierra gorda,guerrero venegas jose,h,IND,598,1074,55.68
+13,talagante,leiva carvajal raul,h,IND,21628,25383,85.21
+7,talca,castro prieto juan,h,IND,42416,73753,57.51
+8,talcahuano,saavedra chandia gaston,h,PS,36174,48212,75.03
+2,taltal,orellana montejo sergio belmor,h,PR,2886,5256,54.91
+9,temuco,becker alvear miguel,h,RN,43086,79727,54.04
+7,teno,valenzuela perez sandra,m,UDI,6738,11721,57.49
+9,teodoro schmidt,riquelme arriagada alfredo,h,PPD,4382,8153,53.75
+3,tierra amarilla,delgado quevedo osvaldo,h,PRO,2976,6009,49.53
+13,til-til,orellana urzua nelson,h,IND,3337,6754,49.41
+12,timaukel,simunovic ojeda alfonso de lourdes,h,IND,264,567,46.56
+8,tirúa,millabur ñancuil adolfo,h,IND,2405,5361,44.86
+2,tocopilla,san roman bascuñan fernando,h,IND,3073,9019,34.07
+9,toltén,garcia ferlice rafael,h,UDI,2838,5151,55.1
+8,tomé,rivas ortiz ivonne,m,PDC,12700,23877,53.19
+12,torres del paine,cardenas rodriguez anahi,m,IND,685,1182,57.95
+11,tortel,lopez sierra bernardo alejandro,h,PPD,222,368,60.33
+9,traiguén,osses ponce rigoberto,h,IND,3544,9759,36.32
+8,trehuaco,cuevas ibarra luis,h,IND,2251,4379,51.4
+8,tucapel,fernandez alister jose antonio,h,IND,3817,7540,50.62
+14,valdivia,sabat guzman omar,h,IND,22565,45026,50.12
+3,vallenar,tapia ramos cristian hernando,h,MAS,7624,17158,44.43
+5,valparaíso,castro muñoz jorge,h,UDI,40210,87331,46.04
+7,vichuquén,pavez lopez roman,h,PPD,1235,3562,34.67
+9,victoria,monsalves castillo hugo,h,PRI,6435,13994,45.98
+4,vicuña,vera castillo rafael,h,PDC,5062,10628,47.63
+9,vilcún,aguilera vega susana,m,PPD,5672,10977,51.67
+7,villa alegre,palma vilches arturo,h,PPD,4655,7062,65.92
+5,villa alemana,sabat marcos jose,h,IND,14490,28953,50.05
+9,villarrica,astete mermoud pablo,h,RN,13420,17938,74.81
+5,viña del mar,reginato bozzo virginia,m,UDI,61650,97153,63.46
+13,vitacura,torrealba del pedregal raul,h,RN,26121,32568,80.2
+7,yerbas buenas,cadegan moran luis,h,IND,4131,8343,49.51
+8,yumbel,cabezas vega camilo enrique,h,PH,5385,11283,47.73
+8,yungay,inostroza valenzuela pedro,h,UDI,5422,8769,61.83
+5,zapallar,cox urrejola nicolas,h,RN,2629,4143,63.46

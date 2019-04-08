@@ -1,0 +1,175 @@
+* { font-family: "Palatino Linotype",
+    "Book Antiqua",
+     Palatino, 
+     serif
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #444444;
+    font-weight: 100;
+    }
+
+p {
+    text-align: justify;
+}
+
+hr {
+    color: #333
+}
+
+body {
+    margin: 0px auto;
+    max-width: 1200px;
+    color: #333;
+    font-family: 'Helvetica', 'Droid Sans', 'Arial', sans-serif;
+    }
+
+#MyMap {
+    margin-left: 0px;
+
+}
+
+#bubblechart {
+    padding: 0px;
+    padding-bottom: 20px;
+}
+
+#chart{
+    margin: 0px auto;
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    }
+
+path {
+    stroke: white;
+    stroke-width: 0.25px;
+    fill: #808080;
+    }
+
+.center{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    }
+
+.map {
+    top: 0px;
+    visibility: hidden;
+    width: 300px;
+    padding: 30px;
+    height: 100%;
+    opacity: 0.4;
+    position: absolute;
+    background-color: aliceblue;
+    font-size: 50px;
+    }
+
+.mapdetails {
+    padding-top: 30px;
+    padding-left: 15px;
+    width: 100%;
+    height: auto;
+    z-index: 1; 
+    position: absolute;
+    font-size: 50px;
+    visibility: hidden;
+}
+
+svg {
+    padding: 20px;
+    margin: 10px;
+    background-color: white;
+    }
+
+.city-label{
+    font-size: 6px;
+    }
+
+#bubble, #bar{
+    display:inline;
+    }
+
+.active{
+    fill: #de7701;
+    stroke: #a80e06;
+    stroke-width: 3px;
+    opacity: 1
+    }
+
+.rect{
+    fill: #de7701;
+    }
+
+.text{
+    fill: black;
+    }
+
+.axisname{
+    fill: black;
+    font-size: 13px;
+    }
+
+.tooltip {
+    position: absolute;
+    width: 200px;
+    height: 28px;
+    pointer-events: none;
+    }
+
+.comuna {
+    stroke: #333;
+    stroke-width: 4px
+}
+
+.country {
+    align-self: center;
+}
+
+/* HEATMAP */
+
+#sparkline {
+    margin-top: 50px;
+    float: left;
+}
+#sparkline svg {
+  display: inherit;
+  border: 0.5px lightgrey solid;
+}
+.sparkline-path {
+    stroke: black;
+    stroke-width: 1;
+    fill: none;
+}
+
+.d3-tip {
+    line-height: 1;
+    font-family: Consolas, courier;
+    font-size: 10px;
+    padding: 3px;
+    background: rgba(0, 0, 0, 0.8);
+    color: rgb(185, 185, 185);
+    border-radius: 2px;
+    pointer-events: none!important;
+}
+.d3-tip:after {
+    box-sizing: border-box;
+    display: inline;
+    font-size: 10px;
+    width: 100%;
+    line-height: 0.5;
+    color: rgba(0, 0, 0, 0.8);
+    content: "\25BC";
+    position: absolute;
+    text-align: center;
+}
+.d3-tip.n:after {
+    margin: -1px 0 0 0;
+    top: 100%;
+    left: 0;
+}
+
+#heatmapSvg {
+    padding: 0px !important;
+    margin: 0px !important;
+}
