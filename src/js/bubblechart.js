@@ -132,8 +132,6 @@ d3.csv(casen_url).then(datacasen => {
             var ejey = 'idse'
             var ejex = 'porcentaje'
             
-            
-
             // parte por default en las elecciones de 1992
 
             const labelX = containerBubblechart.append("text")             
